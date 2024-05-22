@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+javalang
+scikit-learn==1.2.2
+imbalanced-learn
+scipy
